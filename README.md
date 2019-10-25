@@ -1,2 +1,2 @@
 # Machine-Learning-in-Octave
-Weekly Exercises from Machine Learning Courses.
+Solutions for weekly exercises from Machine Learning Course with perfect scores.
